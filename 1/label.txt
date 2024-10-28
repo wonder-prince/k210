@@ -1,0 +1,7 @@
+﻿gr_pumpkin
+gr_apple
+red_pumpkin
+re_apple
+gr_pepper
+re_pepper
+crossing
